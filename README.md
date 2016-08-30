@@ -1,6 +1,7 @@
 # Huffman
 
 Files:
+
 table - functions for turning strings into probability tables for compression
 
 tree - functions for turning tables into coding trees to help with compression
