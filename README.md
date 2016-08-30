@@ -1,5 +1,8 @@
 # Huffman
 
+A simple application for compressing and decompressing text files
+
+
 Files:
 
 table - functions for turning strings into probability tables for compression
